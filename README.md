@@ -48,6 +48,12 @@ This app currently has no live demo.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Link to the Backend App <a name="front-end-project"></a>
+
+[React Application](https://github.com/vflorin1995/hello-rails-back-end)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
