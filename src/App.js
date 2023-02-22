@@ -1,8 +1,8 @@
 import { Routes, Route, BrowserRouter } from 'react-router-dom';
-import Greet from './Greet';
 import { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
 import { fetchData } from './redux/fetch';
+import Greet from './Greet';
 
 function App() {
   const dispatch = useDispatch();

@@ -26,7 +26,7 @@ export const fetchData = () => async (dispatch) => {
   await fetch(URL)
     .then((response) => response.json())
     .then((data) => {
-        greeting = data.greeting;
+      greeting = data.greeting;
     });
   dispatch(Data(greeting));
 };
